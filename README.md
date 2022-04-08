@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milesbarnes
 - 👀 I work for Oceaneering Intl Inc
 - 🌱 I work with C/C++ ...
-- 📫 How to reach me ...
+- 📫 smbarnes is my work name
 
 <!---
 milesbarnes/milesbarnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
